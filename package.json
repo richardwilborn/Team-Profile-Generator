@@ -1,0 +1,21 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "A Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.",
+  "main": "app.js",
+    "directories": {
+      "lib": "lib",
+      "test": "test"
+    },
+    "scripts": {
+      "test": "jest --verbose test/*",
+      "start": "node index.js"
+    },
+    "author": "Richard",
+    "dependencies": {
+      "inquirer": "8.2.4"
+    },
+    "devDependencies": {
+      "jest": "27.2.5"
+    }
+}
