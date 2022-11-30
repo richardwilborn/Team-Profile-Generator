@@ -1,4 +1,3 @@
-
 var inquirer = require("inquirer");
 var fs = require("fs");
 var executeTemplate = require("./dist/team.js");
