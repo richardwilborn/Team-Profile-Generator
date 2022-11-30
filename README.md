@@ -5,7 +5,7 @@ This app creates an HTML webpage that displays contact information for a team.
 
 ## Demo
 
-Insert gif or link to demo
+[TeamProfileGeneratorDemo.webm](https://user-images.githubusercontent.com/45742979/204903349-f1e372b9-dd43-4f2d-909e-25380d84ebc5.webm)
 
 
 ## Installation
