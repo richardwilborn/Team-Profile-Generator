@@ -1,3 +1,4 @@
+
 # Team-Profile-Generator
 
 This app creates an HTML webpage that displays contact information for a team.
@@ -15,7 +16,7 @@ First, clone this repo then you will follow the steps below in the terminal:
   cd Team-Profile-Generator
   npm install
   node index
-  complete all 
+  complete all questions to add employees to the team
 ```
     
 ## Run Locally
@@ -53,3 +54,10 @@ To run tests, run the following command
 ```bash
   npm test
 ```
+
+
+## Roadmap
+
+- Create mailto links for email addresses
+
+- Create links to GitHub profiles
