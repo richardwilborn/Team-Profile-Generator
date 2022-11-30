@@ -44,7 +44,7 @@ function executeTemplate(teamMember) {
     } 
 
     else {
-      var education = teamMember.getSchool();
+      var school = teamMember.getSchool();
       info = 
     `<div class="container">
       <div class="infoContainer">
@@ -54,7 +54,7 @@ function executeTemplate(teamMember) {
             <ul>
               <p>ID Number: ${id}</p>
               <p>Email Address: ${email}</p>
-              <p>School: ${education}</p>
+              <p>School: ${school}</p>
             </ul>
           </div>
         </div>
